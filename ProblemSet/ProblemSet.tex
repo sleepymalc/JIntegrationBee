@@ -28,6 +28,7 @@
 \usepackage{siunitx}
 \usepackage{pgfplots}
 \usepackage{pdfpages}
+\usepackage{engord}
 \geometry{a4paper,left=2cm,right=2cm,top=2cm,bottom=2cm}
 \thispagestyle{empty}
 
@@ -72,7 +73,7 @@
     \vfill
     \flushleft
     \begin{center}
-        \sc{Date: 5 July 2021}
+        \sc{July \engordnumber{5}, 2021}
     \end{center}
 
 \setlength{\parindent}{1em}
@@ -133,22 +134,24 @@
 %-Part 1 ---------------------------------------------------------------------------------------------------------
 \newpage
 \section*{Part 1 : Basic Integration}
-\subsection*{1.1 Strange Integration (2 Marks)}
+\subsection*{1.1 An Unusual Integral (2 Marks)}
+\noindent Calculate
 \begin{equation*}
     \int^{\ln(x)}_0 \max \{1, y\}\,dy, 
 \end{equation*}
 where $x > e$.
 
 %-Part 1.2--------------------------------------------------------------------------------------------------------
-\subsection*{1.2 Even \& Odd (3 Marks)}
-\par For all $a>0$, calculate:
+\subsection*{1.2 Even \& Odd Functions (3 Marks)}
+\noindent For $a>0$, calculate
 \begin{equation*}
     \int^a_{-a} \frac{\cos(x)}{1 + e(x)^{o(x)}}\,dx, 
 \end{equation*}
-where $e(x)$ is a continuous strictly positive even function, and $o(x)$ is an odd function. \textbf{Express your answer in $a$}. 
+where $e(x)$ is a continuous strictly positive even function, and $o(x)$ is an odd function. \textbf{Express your answer in terms of $a$}. 
 
 %-Part 1.3--------------------------------------------------------------------------------------------------------
-\subsection*{1.3 Simple Trigonometry Function (4 Marks)}
+\subsection*{1.3 A Simple Trigonometric Function (4 Marks)}
+\noindent Calculate 
 \begin{equation*}
     \int^\pi_0 \sin^3(x)\,dx
 \end{equation*}
@@ -156,21 +159,23 @@ where $e(x)$ is a continuous strictly positive even function, and $o(x)$ is an o
 \newpage
 %-Part 2 ---------------------------------------------------------------------------------------------------------
 \section*{Part 2 : Virtual Reality}
-\par In 2035, UM-JI decides to bring in a virtual reality equipment in order to catch up with the trend of online 
-teaching system by using this cutting end technology.
 
-\par Pingping and Bangbang, both are JI students, really want to try out this high-tech machine, but they don't have the
-permission. So they decide to sneak into the LongBin Building at the night. They discorver that the front door is 
-guarded by securities, so they find a window with a weird shape at the back of the building and try to
+In 2035, the UM-SJTU Joint Institute decides to bring in virtual reality equipment in order to keep up with the trend of online 
+teaching systems by using this cutting end technology.
+
+Pingping and Bangbang, both are JI students, really want to try out this high-tech machine, but they don't have
+permission to do so. Thus, they decide to sneak into the LongBin Building at night. They discover that the front door is 
+guarded by security, so they find a window with a weird shape at the back of the building and try to
 climb in through it. 
 
 %-Part 2.1--------------------------------------------------------------------------------------------------------
 \subsection*{2.1 Get Into the Building! (3 Marks)}
-\par Since the window is very old, they want to break it first. They decide to weight it and see whether 
-they can do it by themself. 
 
-\par After looking at it for a moment, Pingping says: "It seems like if we use 2d coordinate to describe it, we can 
-let its vertex be located at
+Since the window is very old, they want to break it first. They decide to weight it and see whether 
+they can do it by themselves. 
+
+After looking at it for a moment, Pingping says: "It seems like if we use 2D coordinates to describe it, we can 
+let its vertices be located at
 \begin{equation*}
     (2,0), (5,3), (6,7), (3,4), 
 \end{equation*}
@@ -179,7 +184,7 @@ and in this way, it seems to me that the density of this window is described by
     d(x,y) = 6x-3y.
 \end{equation*}
 ." 
-\par Bangbang: "..., I don't even want to ask how you comes up with this..., but anyway, assume you're right..."
+\par Bangbang: "..., I don't even want to ask how you came up with this..., but anyway, assume you're right..."
 
 \par After some careful drawing, Pingping has the following figure:
 \begin{figure}[H]
@@ -187,26 +192,27 @@ and in this way, it seems to me that the density of this window is described by
     \includegraphics[width = 0.7\linewidth]{Figure/2.1.png}
 \end{figure}
 
-\par Please calculate the weight of this window for him, namely 
+Calculate the weight of the window for him, i.e., find
 \begin{equation*}
-    \iint_R 6x-3y \,dA.
+    \iint_R (6x-3y) \,dA.
 \end{equation*}
-where $R$ describes the region of the window. Notice that you may want to use the following transformation:
+where $R$ describes the region of the window. You may want to use the following transformation:
 \begin{equation*}
     x = \frac{1}{3}(v - u), \quad y = \frac{1}{3}(4v - u).
 \end{equation*}
 
 %-Part 2.2--------------------------------------------------------------------------------------------------------
 \subsection*{2.2 Breathe! (4 Marks)}
-\par After some struggles, Pingping and Bangbang finally get into the building. When they see the machine, they are 
-shocked by how complicated it is. It has too many switches on it! Pingping is too excited about it, so he decides to just lie in the machine and closed it. 
 
-\par After 5 minutes, Pingping feels a little bit hypoxia(loosing air to breathe); meanwhile, Bangbang is reading the 
-instruction of this machine, he find out that when one wants to use it, he(she) needs to turn on the air 
-circulation! Bangbang bet that Pingping does not do this, which is true. But Bangbang is not able to open the machine
-from the outside, in this emergency situation, Bangbang decides to call the security for help...
+After some struggles, Pingping and Bangbang finally get into the building. When they see the machine, they are 
+shocked by how complicated it is. It has far too many switches! Pingping is too excited about it, so he decides to just lie in the machine and closes it. 
 
-\par What is Pingping doing then? He finds out that the whole shape of the machine can be described as 
+After 5 minutes, Pingping feels the effects of hypoxia (lack of oxygen). Meanwhile, Bangbang is reading the 
+instructions for the machine. He finds out that when one wants to use it, one needs to turn on the air 
+circulation! Bangbang is pretty certain that Pingping did not do this (which is true). But Bangbang is not able to open the machine
+from the outside. In this emergency situation, Bangbang decides to call the security for help...
+
+What is Pingping doing during this time? He finds out that the  shape of the machine can be described as 
 \begin{equation*}
     x = 2y^2 + 2z^2 - 5 
 \end{equation*}
@@ -215,63 +221,67 @@ with a cap described by
     x = 1.
 \end{equation*}
  
-\par Furthermore, it seems to him that the current oxygen density is given by the equation 
+Furthermore, it seems to him that the current oxygen density is given by the equation 
 \begin{equation*}
     d(x,y,z) = yz. 
 \end{equation*}
 
-\par Disregards how Pingping comes up with all of these, please find the total amount of oxygen left in the 
-machine for him! Namely, please calculate 
+Disregarding how Pingping comes up with all of this, find the total amount of oxygen left in the 
+machine for him! Calculate 
 \begin{equation*}
     \iiint_M yz\,dV
 \end{equation*}
 where $M$ is the region of the machine described above. 
 
-\par Wait, what? You want me to provide you the graph of $M$ just like the last question? Hey, it's time to grow 
-up! \\
-\hfill (p.s. Don't always trust Pingping's intuition, he may be wrong at some time!)
+Wait, what? You want me to provide you the graph of $M$ just like in the last question? Hey, it's time to grow 
+up! 
+
+\hfill (P.S. Don't always trust Pingping's intuition, he may be wrong some of the time!)
 
 
 %-Part 2.3--------------------------------------------------------------------------------------------------------
 \subsection*{2.3 FIVE Dimension (3 Marks)}
-\par After Pingping konws that his intuition is wrong, he feels sad. He opens the machine and climbs out of it. But 
+
+After Pingping realizes that his intuition is wrong, he feels sad. He opens the machine and climbs out of it. But 
 he does not see Bangbang. The only thing he sees is the instruction book for this virtual machine, which is left 
 on the floor opening to the page that explains how to turn on the air circulation function for this machine. 
 
-\par Pingping is excited again! He immediately decides to go back to the virtual machine, turn on the air 
+Pingping is excited again! He immediately decides to go back into the virtual machine, turn on the air 
 circulation function and start to explore the magic of this machine. After some time, when Pingping finally 
-finds out how to enter the virtual reality, Bangbang and the security arrive. The security is so afraid to be 
-fired becasue of his inattention, so he decides to open the machine from the outside by force. But at that time,
+finds out how to enter the virtual reality, Bangbang and the security arrive. The security guard is so afraid to be 
+fired becasue of his inattention that he decides to open the machine from the outside by force. But at that time,
 the system of the machine detects this and decides to turn on its protection mechanism. 
 
 \par Just then, Pingping starts to see a strange shape that he never saw before. He is fascinated by it. It's so 
-complex, so beautiful, and so symmetric. Long time passes bt and Pingping murmurs: "It's a five dimensional ball... I 
+complex, so beautiful, and so symmetric. Long time passes by and Pingping murmurs: "It's a five dimensional ball... I 
 know it... It must be... It is a five dimensional sphere with radius $R$..."
 
-\par He decide to calculate the volume of this five dimensional ball, can you help him? Namely, please calculate 
+He decides to calculate the volume of this five dimensional ball, can you help him? Namely, please calculate 
 \begin{equation*}
-    \abs{B_5} = \idotsint_{B^5}1 \,dB^5. 
+    \abs{B_5} = \idotsint_{B_5}1 \,dB_5. 
 \end{equation*}
 
-\par What? again? You want me to provide you a graph for that ball? Get out of here!\\
+What? again? You want me to provide you a graph for that ball? Get out of here!
+
 \hfill (p.s. Maybe you will need the result from \textbf{1.3}, but who knows...)
 
 %-Part 2.4--------------------------------------------------------------------------------------------------------
 \subsection*{2.4 Challenge from Bangbang (4 Marks)}
-\par After solving the volume of a five dimensional ball, the whole virtual reality world darks out. And then, 
-Pingping is forced to quit from the virtual reality to reality. He notices that there is a warning from the machine 
+
+After solving the volume of a five dimensional ball, the whole virtual reality world blacks out. Just then, 
+Pingping is forced to leave the virtual environment and re-enter reality. He notices that there is a warning from the machine 
 telling him that someone is trying to breakout the machine from outside. 
 
-\par Pingping thinks that it is because Bangbang is too jealous that he is not the first one to try this machine, so he
-yells out: "How can you cut down the power and do this to me? I'm enjoying the magic of this machine! I even 
-saw a five dimensional ball!"
+Pingping thinks that this is because Bangbang is jealous that he is not the first one to try this machine, so he
+yells out: ``How can you cut down the power and do this to me? I'm enjoying the magic of this machine! I even 
+saw a five-dimensional ball!''
 
-\par Bangbang:"Stop saying that nonsense anymore! If you are able to identify a five dimensional ball, you must be able to
-solve this! I bet you can't!"
+\par Bangbang: ``Stop spouting nonsense! If you are able to identify a five dimensional ball, you must be able to
+solve this! I bet you can't!''
 
-\par As soon as Bangbang challenges Pingping, Pingping opens the machine and jumps out. He is never \textbf{insulted} like 
-this before! No one can judge his ability of doing integration! He yells at Bangbang: "Show me what you get!" 
-Bangbang slowly speaks out the integration, which is
+\par As soon as Bangbang challenges Pingping, Pingping opens the machine and jumps out. He has never been \textbf{insulted} like 
+this before! No one can judge his ability of doing integration! He yells at Bangbang: ``Show me what you have!''
+Bangbang slowly enunciates the integral, which is
 \begin{equation*}
     \int_\R \frac{\cos (x)}{x^2+1}\,dx. 
 \end{equation*}
@@ -284,42 +294,44 @@ You are insulting me again! I'll do this in 2 minutes!"
 \hfill (Probably not solving it in 2 minutes is also OK, but Pingping will be upset...)
 \newpage
 %-Part 3 ---------------------------------------------------------------------------------------------------------
-\section*{Part 3 : Things May Not Act as What You Thought}
+\section*{Part 3 : Things May Not Behave the Way You Expected}
 
-Suzumiya Haruhi is Watahashi Yasumi's math tutor. She is teaching her how to solve integral problems. She does not like ordinary approach and too normal daily life. She looks forward to making the world more interesting and to spreading cheer and excitement. Some problems may seem simple, but indeed they are tricky. Some problems seems huge and complicated, but they are easy to solve. Some problems have the most ugly parameters, but the solution is quite concise. These are quite interesting problems in Haruhi's mind. Haruhi offered Yasumi three integral exercises. Suppose you are Yasumi, please solve these problems.
-\par In your answer, leave $\arctan$ as what they are. Do not calculate them out except that you can let $\arctan 0 = 0$. Do not leave any square root in the denominator. Do not write $\log$ and $\arctan$ more than once in your answer.
+Suzumiya Haruhi is Watahashi Yasumi's math tutor. She is teaching her how to solve integral problems. She does not like the ordinary approach and the too normal daily life. She looks forward to making the world more interesting and to spreading cheer and excitement. Some problems may seem simple, but indeed  are tricky. Some problems seem huge and complicated, but are easy to solve. Some problems have the most ugly parameters, but the solution is quite concise. These are quite interesting problems in Haruhi's mind. Haruhi offered Yasumi three integral exercises. You are Yasumi -- please solve these problems!
+
+\par In your answer, leave expressions involving $\arctan$ as  they are. Do not calculate them out except to let $\arctan 0 = 0$. Do not leave any square root in the denominator. Do not write $\log$ and $\arctan$ more than once in your answer.
 
 %-Part 3.1--------------------------------------------------------------------------------------------------------
-\subsection*{3.1 Simple Integral (3 Marks)}
+\subsection*{3.1 A Simple Integral (3 Marks)}
 \begin{equation*}
     K = \int^{\sqrt{2}}_{1} \frac{1}{1 + x^4}\,dx. 
 \end{equation*}
 
 %-Part 3.2--------------------------------------------------------------------------------------------------------
-\subsection*{3.2 Complicated Double Integral (3 Marks)}
+\subsection*{3.2 A Complicated Double Integral (3 Marks)}
 \begin{equation*}
     M=\iint_{x^{2}+y^{2} \leqslant 1}\left|\frac{x+y}{\sqrt{2}}-x^{2}-y^{2}\right| \mathrm{d} x \mathrm{~d} y.
 \end{equation*}
 
 %-Part 3.3--------------------------------------------------------------------------------------------------------
-\subsection*{3.3 Ugly Line with a Beautiful Line Integral Result (2 Marks)}
-Given the curve $\Gamma$
+\subsection*{3.3 An Ugly Line with a Beautiful Line Integral Result (2 Marks)}
+Given the curve $\varGamma$
 \begin{equation*}
     \left\{\begin{array}{l}
 (x-y)^{2}=a(x+y) \\
 x^{2}-y^{2}=\frac{9}{8} z^{2}. 
 \end{array}\right.
 \end{equation*}
-calculate the length $I$ on $\Gamma$ from $A:\left(0, 0, 0\right)$ to $B:\left(1, y_0, z_0\right)$. 
+calculate the length $\ell$ on $\varGamma$ from $A\colon\left(0, 0, 0\right)$ to $B\colon\left(1, y_0, z_0\right)$. 
 
 %-Part 3.4--------------------------------------------------------------------------------------------------------
 \subsection*{3.4 Last Exercise for Yasumi (4 Marks)}
-\par Yasumi successfully solved the three questions in \textbf{Part 3} and it's time to go to SOS Brigade to have some fun in after-class club activities. In the club activity room, Haruhi is quite proud that Yasumi's ability to solve integral has improved a lot. Now she asks Yasumi to solve one problem on the blackboard. Suppose you are Yasumi, please solve this problem.
+
+Yasumi successfully solved the three questions in \textbf{Part 3} and it's time to go visit the SOS Brigade to have some fun in after-class club activities. In the club activity room, Haruhi is quite proud that Yasumi's ability to solve integrals has improved a lot. Now she asks Yasumi to solve one problem on the blackboard. ou are Yasumi -- please solve this problem!
 
 \begin{equation*}
-    P=\iiint_{\Omega}\left[\frac{1}{y z} \frac{\partial F}{\partial x}+\frac{1}{x z} \frac{\partial F}{\partial y}+\frac{1}{x y} \frac{\partial F}{\partial x}\right] \mathrm{d} x \mathrm{~d} y \mathrm{~d} z. 
+    P=\iiint_{\varOmega}\left[\frac{1}{y z} \frac{\partial F}{\partial x}+\frac{1}{x z} \frac{\partial F}{\partial y}+\frac{1}{x y} \frac{\partial F}{\partial x}\right] \mathrm{d} x \mathrm{~d} y \mathrm{~d} z. 
 \end{equation*}
-where $\omega=1 \leqslant y z \leqslant 2,1 \leqslant x z \leqslant 2,1 \leqslant x y \leqslant 2$ and $F=2 x + M y + \lfloor I \rfloor z$. 
+where $\varOmega=\{ 1 \leqslant y z \leqslant 2$, $1 \leqslant x z \leqslant 2$, $1 \leqslant x y \leqslant 2\}$ and $F(x,y,z)=2 x + M y + \lfloor \ell \rfloor z$, where $M$ and $\ell$ were introduced in 3.2 and 3.3, respectively.
 
 \begin{flushright}
     Based on characters in \textsl{The Surprise of Haruhi Suzumiya}, Nagaru Tanigawa
@@ -328,7 +340,8 @@ where $\omega=1 \leqslant y z \leqslant 2,1 \leqslant x z \leqslant 2,1 \leqslan
 \newpage
 %-Part 4 ---------------------------------------------------------------------------------------------------------
 \section*{Part 4 : }
-\par AppleDog and DT, both are robot players, would like to create and run a small video website in their spare time. To achieve this, they need to define a system for their website that assigns ranks for existing videos and videos under review. By investigating the ranking system of \textsl{Piggy Piggy} (a famous video website), they list some criteria for their system.
+
+AppleDog and DT, both are robot players, would like to create and run a small video website in their spare time. To achieve this, they need to define a system for their website that assigns ranks for existing videos and videos under review. By investigating the ranking system of \textsl{Piggy Piggy} (a famous video website), they list some criteria for their system.
 \begin{itemize}
     \item[(a)] The score of a video decreases as time (\emph{$x_1$}) passes by;
     \item[(b)] The score of a video increases as the heat (\emph{$x_2$}) of the topic of the video increases;
@@ -356,12 +369,13 @@ where $\beta > 0$ is a parameter depending on the topic of a video, and "$\log$"
 
 %-Part 4.1--------------------------------------------------------------------------------------------------------
 \subsection*{4.1 Score of Existing Video (2 Marks)} 
+
 \par Suppose in the first 7 days the data of a video (i.e., heat, number of views, etc.) follows the curve $\mathcal{C}$ parametrized by 
 \begin{equation*}
     \gamma:[0,7]\to \R^4,\quad \gamma(t) = (t, \sqrt{\alpha}, t, 0)
 \end{equation*}
 
-\par Determine the score of this video, i.e., evaluate the integral below (\textbf{express your answer in $\alpha$ and $\beta$}) 
+\par Determine the score of this video, i.e., evaluate the integral below (\textbf{express your answer in terms of $\alpha$ and $\beta$}) 
 \begin{equation*}
     \int_{\mathcal{C}}f. 
 \end{equation*}
@@ -369,7 +383,7 @@ where $\beta > 0$ is a parameter depending on the topic of a video, and "$\log$"
 \par Then determine the value of $\alpha$ when the score of this video is $2\sqrt{2}$. This \emph{$\alpha$} will be used in \textbf{4.4}. 
 
 %-Part 4.2--------------------------------------------------------------------------------------------------------
-\subsection*{4.2 Area of Domain $E$ (3 Marks)} 
+\subsection*{4.2 Area of the Domain $E$ (3 Marks)} 
 AppleDog first wants to see the area of $E$, where $E$ is defined above. Help her calculate it (\textbf{express your answer in $\alpha$}).  
 
 %-Part 4.3--------------------------------------------------------------------------------------------------------
@@ -381,8 +395,9 @@ Help AppleDog calculate the predicted score of a video under review, i.e., evalu
 
 %-Part 4.4--------------------------------------------------------------------------------------------------------
 \subsection*{4.4 Challenge From AppleDog (3 Marks)}
-\par Knowing that DT has been attending robot competitions since 16, AppleDog believes that he must be smart and good at math. Thus, she gives him an integration as a reward for his contribution to the video ranking system: 
-\par Let \emph{$\alpha$} be the value calculated in \textbf{4.1}. Suppose that $f:[0,1] \to \mathbb{R}$ is continuous and 
+\par Knowing that DT has been attending robot competitions since the age of 16, AppleDog believes that he must be smart and good at math. Thus, she gives him an integral as a reward for his contribution to the video ranking system: 
+
+Let \emph{$\alpha$} be the value calculated in \textbf{4.1}. Suppose that $f:[0,1] \to \mathbb{R}$ is continuous and 
 \begin{equation*}
     \int_0^1 f(x) dx = \alpha. 
 \end{equation*}
@@ -399,7 +414,7 @@ Evaluate the following integral (your answer \textbf{should not} contain \emph{$
 
 \newpage
 %-Answer----------------------------------------------------------------------------------------------------------
-\section*{Answer}
+\section*{Answers}
 %-Part 1 ---------------------------------------------------------------------------------------------------------
 
 \par \textbf{Answer for 1.1: }
@@ -479,7 +494,7 @@ Evaluate the following integral (your answer \textbf{should not} contain \emph{$
 \par \textbf{Answer for 4.3: }
 \begin{equation*}
     \frac{4\log 4 - 3}{\beta - \alpha}\left[\frac{\arctan(7/\sqrt{\alpha})}{\sqrt{\alpha}} - \frac{\arctan(7/\sqrt{\beta})}{\sqrt{\beta}}\right] 
-    + (\frac{64}{3}\log 4 - \frac{41}{2})\arcsinh(\frac{7}{\sqrt{\beta}})
+    + \left(\frac{64}{3}\log 4 - \frac{41}{2}\right)\arcsinh\left(\frac{7}{\sqrt{\beta}}\right)
 \end{equation*}
 
 \par \textbf{Answer for 4.4: }

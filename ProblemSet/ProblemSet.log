@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.15)  4 JUL 2021 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.15)  4 JUL 2021 19:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -584,23 +584,25 @@ Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
 File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-))) (/Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.aux)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/oberdiek/engord.sty
+Package: engord 2016/05/16 v1.9 Provides English ordinal numbers (HO)
+) (/Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.aux)
 \openout1 = `ProblemSet.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -671,24 +673,24 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 50.
+ on input line 51.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 50.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 51.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 <Figure/Logo.png, id=4, 2347.77126pt x 1660.2025pt>
 File: Figure/Logo.png Graphic file (type png)
 <use Figure/Logo.png>
-Package pdftex.def Info: Figure/Logo.png  used on input line 70.
+Package pdftex.def Info: Figure/Logo.png  used on input line 71.
 (pdftex.def)             Requested size: 386.95897pt x 273.6176pt.
  [1
 
@@ -696,19 +698,19 @@ Package pdftex.def Info: Figure/Logo.png  used on input line 70.
 <Figure/2.1.png, id=27, 361.35pt x 368.37625pt>
 File: Figure/2.1.png Graphic file (type png)
 <use Figure/2.1.png>
-Package pdftex.def Info: Figure/2.1.png  used on input line 187.
+Package pdftex.def Info: Figure/2.1.png  used on input line 192.
 (pdftex.def)             Requested size: 338.58632pt x 345.172pt.
  [3 </Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/Figure/2.1.png (PNG copy)>] [4] [5] [6] [7] [8] [9] (/Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.aux) ) 
 Here is how much of TeX's memory you used:
- 29809 strings out of 480608
- 734305 string characters out of 5903630
+ 29836 strings out of 480608
+ 734775 string characters out of 5903630
  1108670 words of memory out of 5000000
- 45185 multiletter control sequences out of 15000+600000
- 564252 words of font info for 146 fonts, out of 8000000 for 9000
+ 45208 multiletter control sequences out of 15000+600000
+ 564553 words of font info for 147 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,19n,98p,889b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.pdf (10 pages, 306121 bytes).
+Output written on /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.pdf (10 pages, 307067 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
