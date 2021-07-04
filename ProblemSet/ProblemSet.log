@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.15)  4 JUL 2021 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.15)  4 JUL 2021 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -696,7 +696,7 @@ Package pdftex.def Info: Figure/Logo.png  used on input line 70.
 <Figure/2.1.png, id=27, 361.35pt x 368.37625pt>
 File: Figure/2.1.png Graphic file (type png)
 <use Figure/2.1.png>
-Package pdftex.def Info: Figure/2.1.png  used on input line 183.
+Package pdftex.def Info: Figure/2.1.png  used on input line 187.
 (pdftex.def)             Requested size: 338.58632pt x 345.172pt.
  [3 </Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/Figure/2.1.png (PNG copy)>] [4] [5] [6] [7] [8] [9] (/Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.aux) ) 
 Here is how much of TeX's memory you used:
@@ -708,7 +708,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  63i,19n,98p,889b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.pdf (10 pages, 305831 bytes).
+Output written on /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet/ProblemSet.pdf (10 pages, 306121 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream
