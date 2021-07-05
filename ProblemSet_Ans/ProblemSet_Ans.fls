@@ -2,8 +2,8 @@ PWD /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integratio
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.tex
-OUTPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.log
+INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.tex
+OUTPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.log
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
@@ -259,9 +259,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplo
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/oberdiek/engord.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/oberdiek/engord.sty
-INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.aux
-INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.aux
-OUTPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.aux
+INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.aux
+INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.aux
+OUTPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -368,7 +368,7 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/Figure/Logo.png
 INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/Figure/Logo.png
-OUTPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.pdf
+OUTPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.pdf
 INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/Figure/Logo.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
@@ -412,7 +412,7 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb7.t
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm
-INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet.aux
+INPUT /Users/benson/University/JI/TeachingAssistance/Vv285_2021SU/UM-JI_Integration_Bee/ProblemSet_Ans/ProblemSet_Ans.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
