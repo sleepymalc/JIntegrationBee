@@ -10,13 +10,17 @@ According to the SJTU student handbook (2019 version),
 
 ## Contribution
 
+	Horst Hohberger - Professor
+	
+	Leyang Zhang - TA
+	
+	Chengsong Zhang - TA
+	
+	Pingbang Hu - TA
+  
 The work are partially contributed to some other students, TAs and professors in JI, which would be listed if known.
 
-​	Leyang Zhang - TA
-
-​	Chengsong Zhang - TA
-
-​	Horst Hohberger - Professor
+## Reminder
 
 If you find any problems in the reposity, welcome to make an issue or pull request.
 
