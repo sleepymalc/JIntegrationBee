@@ -22,5 +22,4 @@ The work are partially contributed to some other students, TAs and professors in
 
 ## Reminder
 
-If you find any problems in the reposity, welcome to make an issue or pull request.
-
+If you find any problems in the rep, welcome to make an issue or pull request.
