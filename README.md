@@ -1,8 +1,8 @@
 # JIntegration Bee
 
 <p align="center">
-	<img src="https://github.com/sleepymalc/JIntegration/blob/master/logo.png"/>
-	<img src="https://github.com/sleepymalc/JIntegration/blob/master/logo2.png"/>
+	<img src="https://github.com/sleepymalc/JIntegrationBee/blob/master/logo.png"/>
+	<img src="https://github.com/sleepymalc/JIntegrationBee/blob/master/logo2.png"/>
 </p>
 
 <p align="center"><b><i>
