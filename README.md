@@ -1,8 +1,21 @@
-# 1st JIntegration Bee
+# JIntegration Bee
+
+<p align="center">
+	<img src="https://github.com/sleepymalc/JIntegration/blob/master/logo.png"/>
+	<img src="https://github.com/sleepymalc/JIntegration/blob/master/logo2.png"/>
+</p>
+
+<p align="center"><b><i>
+	JIntegration Bee: The Integration Bee Competition, but in JI.
+</i></b></p>
+
+## Abstract
+
+This is the $\LaTeX$ source code of the $1^{st}$ *JIntegration Bee* competition.
 
 ## About Honor Code
 
-If there is same questions or labs in the future, it is the responsibility of JI students not to copy or modify these codes, or TeX files because it is against the Honor Code. The owner of this repository dosen't take any commitment for other's faults.
+If there is the same project in the future in VG101, it is the responsibility of JI students not to copy or modify these codes, or TeX files because it is against the Honor Code. The owner of this repository doesn't take any commission for others' faults.
 
 According to the SJTU student handbook (2019 version),
 
@@ -10,16 +23,11 @@ According to the SJTU student handbook (2019 version),
 
 ## Contribution
 
-	Horst Hohberger - Professor
-	
-	Leyang Zhang - TA
-	
-	Chengsong Zhang - TA
-	
-	Pingbang Hu - TA
-  
-The work are partially contributed to some other students, TAs and professors in JI, which would be listed if known.
+<p align="center"><b><i>
+	Horst Hohberger (Prof.), Leyang Zhang (TA), Chengsong Zhang (TA), Pingbang Hu (TA)
+</i></b></p>
 
-## Reminder
+---
 
-If you find any problems in the rep, welcome to make an issue or pull request.
+The works are partially contributed by some other students, TAs, and professors in JI, which would be listed if known.
+> If you find any problems in the repository, welcome to make an issue or pull request.
