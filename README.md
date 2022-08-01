@@ -2,16 +2,15 @@
 
 <p align="center">
 	<img src="https://github.com/sleepymalc/JIntegrationBee/blob/master/logo.png"/>
-	<img src="https://github.com/sleepymalc/JIntegrationBee/blob/master/logo2.png"/>
 </p>
 
 <p align="center"><b><i>
-	JIntegration Bee: The Integration Bee Competition, but in JI.
+	JIntegration Bee - The Integration Bee Competition, but in JI.
 </i></b></p>
 
 ## Abstract
 
-This is the $\LaTeX$ source code of the $1^{st}$ *JIntegration Bee* competition.
+This repository consists of all the $\LaTeX$ source codes of the $1^{st}$ *JIntegration Bee* competition.
 
 ## About Honor Code
 
