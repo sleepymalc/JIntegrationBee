@@ -1,7 +1,7 @@
 # JIntegration Bee
 
 <p align="center">
-	<img src="https://github.com/sleepymalc/JIntegrationBee/blob/master/logo.png"/>
+	<img src="./logo.png"/>
 </p>
 
 <p align="center"><b><i>
